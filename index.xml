@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>vyuga3</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="Fistachka" repo="vyuga4"/>
   <readme>
     <ru>a038b8b7ffca5cfcd9cf87c9998b15e3d59dbae43d27603aca26d9f487d9d60d</ru>
@@ -81,12 +81,12 @@
     <tonalities>8</tonalities>
     <video name="21.mp4" size="1914722" type="video/mp4" volume="0.5">37940ec9eeb8dc875a3ed36202b6c577e36c8115f55b0a80d4eaaa928b888307</video>
     <notes>
-      <note number="1" values="7" ticks="176" durationTicks="72" ppq="96" velocity="0.747"/>
-      <note number="2" values="7" ticks="272" durationTicks="106" ppq="96" velocity="0.834"/>
-      <note number="3" values="7" ticks="416" durationTicks="39" ppq="96" velocity="0.742"/>
-      <note number="4" values="7" ticks="478" durationTicks="78" ppq="96" velocity="0.854"/>
-      <note number="5" values="6" ticks="583" durationTicks="30" ppq="96" velocity="0.744"/>
-      <note number="6" values="6" ticks="641" durationTicks="170" ppq="96" velocity="0.832"/>
+      <note number="1" values="7" ticks="126" durationTicks="72" ppq="96" velocity="0.747"/>
+      <note number="2" values="7" ticks="222" durationTicks="106" ppq="96" velocity="0.834"/>
+      <note number="3" values="7" ticks="342" durationTicks="39" ppq="96" velocity="0.742"/>
+      <note number="4" values="7" ticks="405" durationTicks="154" ppq="96" velocity="0.854"/>
+      <note number="5" values="6" ticks="560" durationTicks="43" ppq="96" velocity="0.744"/>
+      <note number="6" values="6" ticks="624" durationTicks="170" ppq="96" velocity="0.832"/>
     </notes>
   </exercise>
   <exercise number="6">
