@@ -3,7 +3,7 @@
 "Звенит январская вьюга" ("С любовью встретиться") 1972г. 3 часть
 ![66](https://github.com/user-attachments/assets/dac78e25-3177-420e-8891-34fe7150fbfa)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/bSHzwKSE3dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/P_H8Cs7gNTk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VcRbvg6HaE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 А где-то есть моя любовь сердечная
@@ -20,7 +20,7 @@ stolbitsa.com/fistachka/vyuga2<br><br>
 “The January Blizzard Sings” “Meeting Love”) 1972 3 st verse
 ![66](https://github.com/user-attachments/assets/dac78e25-3177-420e-8891-34fe7150fbfa)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/O53gtbMeXZI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/A8eH2sp9qsY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RQta7Mc7l_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 A gde-to est' moya lyubov' serdechnaya
