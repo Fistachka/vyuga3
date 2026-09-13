@@ -2,16 +2,15 @@
 <level>
   <owner>Fistachka</owner>
   <repo>vyuga3</repo>
-  <version>v1.0.19</version>
+  <version>v1.0.20</version>
   <next number="1" owner="Fistachka" repo="vyuga4"/>
   <readme>
-    <ru>a038b8b7ffca5cfcd9cf87c9998b15e3d59dbae43d27603aca26d9f487d9d60d</ru>
-    <en>782eecbac6c564067609de405917cd64c5c6df1c820301daf55452f1662facda</en>
+    <ru>6521807eda6a1324ea4195c7f068350513f2b110add848547334a4169ab640bf</ru>
+    <en>55d3aca1689a1911a7140105e05968f29a6e0bfd73bb9bc71bb7d2b5c17ed6dc</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
-    <scale>minor</scale>
-    <cadenceVariant>harmonic</cadenceVariant>
+    <scale>major</scale>
     <bpm>162</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>8</tonalities>
