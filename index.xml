@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>vyuga3</repo>
-  <version>v1.0.21</version>
+  <version>v1.0.22</version>
   <next number="1" owner="Fistachka" repo="vyuga4"/>
   <readme>
     <ru>48d1cbc0f92d538cb691a3695782188a83b5ad6976a8bcf701cbe86ef62a513d</ru>
@@ -10,7 +10,7 @@
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
-    <scale>major</scale>
+    <scale>minor</scale>
     <bpm>162</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>8</tonalities>
@@ -26,7 +26,6 @@
   </exercise>
   <exercise number="2">
     <scale>minor</scale>
-    <cadenceVariant>harmonic</cadenceVariant>
     <bpm>162</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>8</tonalities>
