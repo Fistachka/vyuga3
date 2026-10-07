@@ -4,7 +4,7 @@
 ![66](https://github.com/user-attachments/assets/dac78e25-3177-420e-8891-34fe7150fbfa)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/bf8fGK8zcZo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V5uToO2VT3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cerpvMxuH7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 А где-то есть моя любовь сердечная
 Неповторимая, вечная, вечная
@@ -21,7 +21,7 @@ stolbitsa.com/fistachka/vyuga2<br><br>
 ![66](https://github.com/user-attachments/assets/dac78e25-3177-420e-8891-34fe7150fbfa)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/DvnQV_eawHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_noYbzlRpBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2YMQ5F6rmz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 A gde-to est' moya lyubov' serdechnaya
 Nepovtorimaya, vechnaya, vechnaya
